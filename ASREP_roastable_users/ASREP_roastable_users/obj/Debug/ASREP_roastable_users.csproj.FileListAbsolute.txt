@@ -1,0 +1,7 @@
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\bin\Debug\ASREP_roastable_users.exe.config
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\bin\Debug\ASREP_roastable_users.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\bin\Debug\ASREP_roastable_users.pdb
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\obj\Debug\ASREP_roastable_users.csprojAssemblyReference.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\obj\Debug\ASREP_roastable_users.csproj.CoreCompileInputs.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\obj\Debug\ASREP_roastable_users.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\ASREP_roastable_users\ASREP_roastable_users\obj\Debug\ASREP_roastable_users.pdb

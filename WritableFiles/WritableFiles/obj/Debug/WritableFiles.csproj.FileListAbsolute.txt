@@ -1,0 +1,7 @@
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\bin\Debug\WritableFiles.exe.config
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\bin\Debug\WritableFiles.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\bin\Debug\WritableFiles.pdb
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\obj\Debug\WritableFiles.csprojAssemblyReference.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\obj\Debug\WritableFiles.csproj.CoreCompileInputs.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\obj\Debug\WritableFiles.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\WritableFiles\WritableFiles\obj\Debug\WritableFiles.pdb

@@ -1,0 +1,7 @@
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojAssemblyReference.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb

@@ -1,0 +1,9 @@
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\bin\Debug\LoadFrom_File.exe.config
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\bin\Debug\LoadFrom_File.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\bin\Debug\LoadFrom_File.pdb
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\obj\Debug\LoadFrom_File.csprojAssemblyReference.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\obj\Debug\LoadFrom_File.csproj.CoreCompileInputs.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\obj\Debug\LoadFrom_File.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\obj\Debug\LoadFrom_File.pdb
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\bin\Debug\System.Management.Automation.dll
+C:\Users\c.celik\Desktop\OffensiveSharp\LoadFrom_File\LoadFrom_File\obj\Debug\LoadFrom_File.csproj.CopyComplete

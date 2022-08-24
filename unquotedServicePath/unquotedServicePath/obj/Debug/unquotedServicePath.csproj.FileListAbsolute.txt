@@ -1,0 +1,7 @@
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\bin\Debug\unquotedServicePath.exe.config
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\bin\Debug\unquotedServicePath.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\bin\Debug\unquotedServicePath.pdb
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\obj\Debug\unquotedServicePath.csprojAssemblyReference.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\obj\Debug\unquotedServicePath.csproj.CoreCompileInputs.cache
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\obj\Debug\unquotedServicePath.exe
+C:\Users\c.celik\Desktop\OffensiveSharp\unquotedServicePath\unquotedServicePath\obj\Debug\unquotedServicePath.pdb
